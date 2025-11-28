@@ -1,0 +1,5 @@
+{
+  "name": "OmniCreate AI",
+  "description": "A comprehensive AI creative suite for image generation, video creation, storyboarding, media editing, and multimodal analysis using Google's Gemini and Veo models.",
+  "requestFramePermissions": []
+}
